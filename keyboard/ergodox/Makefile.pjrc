@@ -112,4 +112,7 @@ workman: all
 cub: OPT_DEFS += -DKEYMAP_CUB -DERGODOX_LEFT_LEDS
 cub: all
 
+agy: OPT_DEFS += -DKEYMAP_AGY
+agy: all
+
 
