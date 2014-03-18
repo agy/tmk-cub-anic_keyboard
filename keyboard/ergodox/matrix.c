@@ -75,7 +75,7 @@ void matrix_init(void)
 
 uint8_t matrix_scan(void)
 {
-#ifdef KEYMAP_CUB
+#ifdef ERGODOX_LEFT_LEDS
     uint8_t layer = biton32(layer_state);
 
     if (layer == 1) {

@@ -72,4 +72,7 @@ Project located at <https://github.com/benblazak/ergodox-firmware>
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
 
+/* requires custom hardware hack */
+//#define ERGODOX_LEFT_LEDS
+
 #endif

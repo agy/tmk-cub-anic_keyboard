@@ -109,7 +109,7 @@ colemak: all
 workman: OPT_DEFS += -DKEYMAP_WORKMAN
 workman: all
 
-cub: OPT_DEFS += -DKEYMAP_CUB
+cub: OPT_DEFS += -DKEYMAP_CUB -DERGODOX_LEFT_LEDS
 cub: all
 
 
