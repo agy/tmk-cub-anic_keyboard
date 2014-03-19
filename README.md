@@ -52,6 +52,7 @@ You can find some keyboard specific projects under `converter` and `keyboard` di
 * [IIgs_Standard](keyboard/IIgs/)           - Apple [IIGS] keyboard mod(by JeffreySung)
 * [macway](keyboard/macway/)                - [Compact keyboard mod][GH_macway] [retired]
 * [KMAC](keyboard/kmac/)                    - Korean custom keyboard
+* [ergodox](keyboard/ergodox/)              - [Ergodox] DIY split ergonomic keyboard
 
 [GH_macway]:    http://geekhack.org/showwiki.php?title=Island:11930
 [GH_hhkb]:      http://geekhack.org/showwiki.php?title=Island:12047
@@ -71,6 +72,7 @@ You can find some keyboard specific projects under `converter` and `keyboard` di
 [PC98]:         http://en.wikipedia.org/wiki/NEC_PC-9801
 [Sun]:          http://en.wikipedia.org/wiki/Sun-3
 [IIGS]:         http://en.wikipedia.org/wiki/Apple_IIGS
+[Ergodox]:      http://ergodox.org/
 
 
 
